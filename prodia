@@ -8,8 +8,13 @@
 "playstore":"https://play.google.com/store/apps/details?id=com.bluemini.hzt",
 "direct":"https://www.mediafire.com/file/bdicr1fvpz4s3ah/Mini_BLUE.apk/file",
 "text":"မြန်မာလိုးကား App",
-"update":"oppp",
+"update":"open",
 "updatelink":"https://play.google.com/store/apps/details?id=com.bluepro.hzt",
 "updatedlink":"https://www.mediafire.com/file/11oxej19uhumwwv/Blue+TV+PRO_8.0.apk/file",
 "updateicon":"https://raw.githubusercontent.com/heinh247/photo/main/PicsArt_01-19-09.39.42.jpg",
-"updatetext":"ပိုမိုကောင်းမွန်စွာ အသုံးပြုနိုင်ရန် ဗားရှင်း အသစ်ကို Update လုပ်ပါ"}
+"updatetext":"ပိုမိုကောင်းမွန်စွာ အသုံးပြုနိုင်ရန် version အသစ်ကို update ပြုလုပ်ပါ
+Playstore ရှိသူများ playstore တွင် update လုပ်လိုရသလို အောက်က playstore link ကိုနိုပ်ပီးလည်း update ပြုလုပ်နိုင်ပါသည်
+
+(မှတ်ချက် Direct link သည် playstore မရှိတဲ့သူတွေအတွက်သာ)
+
+direct link ဖြင့်ဒေါင်းပါက အဟောင်းဖျက်ပီးမှ install တင်လို့ရပါမည်"}
